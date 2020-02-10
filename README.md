@@ -4,4 +4,4 @@ Proyecto: Simulación
 Integrantes:
 Arturo Ismael Canul Canul
 Valeria Ramirez Muñoz
-
+Jose Gregorio Marchan Betancourt
