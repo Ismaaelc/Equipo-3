@@ -1,7 +1,7 @@
 # Equipo-3
-Simulación/Proyecto Equipó 3
-Proyecto: Simulación
+Proyecto
+Simulacion de lunes a viernes 13:00-14:00
 Integrantes:
-Arturo Ismael Canul Canul
-Valeria Ramirez Muñoz
 Jose Gregorio Marchan Betancourt
+Valeria Ramirez Muñoz
+Canul Canul Arturo Ismael
