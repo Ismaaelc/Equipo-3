@@ -1,8 +1,8 @@
 # Equipo-3
-Proyecto
+## Proyecto
 Simulacion de lunes a viernes 13:00-14:00
-Integrantes:
-Jose Gregorio Marchan Betancourt
-Valeria Ramirez Muñoz 
-Canul Canul Arturo Ismael
-Gustavo Garcia Lopez
+### Integrantes:
+*Jose Gregorio Marchan Betancourt
+*Valeria Ramirez Muñoz 
+*Canul Canul Arturo Ismael
+*Gustavo Garcia Lopez
