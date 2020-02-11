@@ -5,3 +5,4 @@ Integrantes:
 Jose Gregorio Marchan Betancourt
 Valeria Ramirez Muñoz
 Canul Canul Arturo Ismael
+Gustavo Garcia Lopez
