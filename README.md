@@ -7,3 +7,4 @@ Simulacion de lunes a viernes 13:00-14:00
 * Valeria Ramirez Muñoz 
 * Canul Canul Arturo Ismael
 * Gustavo Garcia Lopez
+
